@@ -59,15 +59,15 @@ After training, both models are evaluated on the validation set to measure their
 
 Custom Classification Model:
 
-Val Accuracy: 0.6470
-Val Precision: 0.4511
-Val Recall: 0.7256
+* Val Accuracy: 0.6470
+* Val Precision: 0.4511
+* Val Recall: 0.7256
 
 Resnet18 Model:
 
-Val Accuracy: 0.8098
-Val Precision: 0.6602
-Val Recall: 0.7755
+* Val Accuracy: 0.8098
+* Val Precision: 0.6602
+* Val Recall: 0.7755
 
 
 ### Model Interpretation
